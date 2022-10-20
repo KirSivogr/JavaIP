@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+    <person>
+        <first>wang</first>
+        <last>laohu</last>
+        <age>25</age>
+        <версия> Издательский дом «Почты и телекоммуникации Китая» </ версия>
+    </person>
+    <person>
+        <first>li</first>
+        <last>junjia</last>
+        <age>24</age>
+        <версия> Университетская пресса Цинхуа </ версия>
+    </person>
+</book>  
